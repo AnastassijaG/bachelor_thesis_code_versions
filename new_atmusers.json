@@ -1,0 +1,32 @@
+{
+    "users": {
+        "christina_g": {
+            "userid": "christina_g",
+            "pin": "1111",
+            "checking": 400.0,
+            "savings": 2500.0,
+            "name": "Christina"
+        },
+        "ricanontherun": {
+            "userid": "ricanontherun",
+            "pin": "1112",
+            "checking": 9155.0,
+            "savings": 10000.0,
+            "name": "Christian"
+        },
+        "theintimidator": {
+            "userid": "theintimidator",
+            "pin": "1113",
+            "checking": 1845.0,
+            "savings": 1912.0,
+            "name": "Sean"
+        },
+        "jazzplusjazzequalsjazz": {
+            "userid": "jazzplusjazzequalsjazz",
+            "pin": "1114",
+            "checking": 4489.0,
+            "savings": 24000.0,
+            "name": "Dan"
+        }
+    }
+}

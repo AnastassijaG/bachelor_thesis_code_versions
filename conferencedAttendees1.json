@@ -1,0 +1,26 @@
+[
+    {
+        "name": "John Doe",
+        "company": "ABC Inc.",
+        "state": "CA, USA",
+        "email": "john.doe@example.com"
+    },
+    {
+        "name": "Jane Smith",
+        "company": "XYZ Corp.",
+        "state": "NY, USA",
+        "email": "jane.smith@example.com"
+    },
+    {
+        "name": "Carson",
+        "company": "Philadelphia Eagles",
+        "state": "PA, USA",
+        "email": "wentz@philaeagles.com"
+    },
+    {
+        "name": "Liza",
+        "company": "Philadelphia Eagles",
+        "state": "PA, USA",
+        "email": "liz@philaeagles.com"
+    }
+]
